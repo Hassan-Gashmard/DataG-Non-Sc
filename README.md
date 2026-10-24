@@ -1,1 +1,1 @@
-To overcome the limited availability of data on non-superconducting materials, we have curated a publicly accessible dataset, DataG Non-Sc, consisting of 53,196 materials. This dataset includes materials with band gaps greater than 0.1 eV, as well as those with band gaps of zero or below 0.1 eV.
+To address the scarcity of data on non-superconducting materials, we curated a publicly available dataset named DataG Non-Sc, which comprises 53,196 materials. The dataset encompasses both materials with band gaps exceeding 0.1 eV and those with band gaps of zero or less than 0.1 eV.
